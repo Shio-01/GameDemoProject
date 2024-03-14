@@ -1,6 +1,6 @@
 # GameDemoProject
 This demo is just a display of my initial Unreal Engine 5 skills. This isn't supposed to become a proper game. It's supposed to be just a sandbox for me to learn more about UE5 and game development as a whole. 
-[Build Download](https://drive.google.com/drive/folders/153eJkz2gxNn77zWR-XejMngzsplKiYZs?usp=drive_link)
+[Build Download](https://drive.google.com/drive/folders/153eJkz2gxNn77zWR-XejMngzsplKiYZs?usp=sharing)
 
 Currently in the game I've included:
 - Custom movement system
